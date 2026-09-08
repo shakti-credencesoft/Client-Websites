@@ -32,7 +32,7 @@ const DiningPage: NextPage = () => {
           <div className={styles.split} data-reveal>
             <div className={styles.splitImageWrap}>
               <Image
-                src="/fusionbitesdining.png"
+                src="/restaurantdining.png"
                 alt={RESTAURANT.name}
                 loading="lazy"
                 fill

@@ -27,12 +27,12 @@ export const RESTAURANT = {
     {
       title: 'Continental & Café Favorites',
       description: 'Pastas, grills, sandwiches, and barista-style coffee through the day.',
-      image: 'https://images.unsplash.com/photo-1601050690597-df0568f70950?w=600&q=80&fit=crop',
+      image: '/cafe.png',
     },
     {
       title: 'Room Service',
       description: 'A complete room service menu available 24/7 for in-room dining.',
-      image: 'https://images.unsplash.com/photo-1596797038530-2c107229654b?w=600&q=80&fit=crop',
+      image: '/romservice.png',
     },
   ] as DiningHighlight[],
 };
